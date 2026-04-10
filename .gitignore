@@ -1,0 +1,12 @@
+__pycache__/
+dataset/
+output_lines/
+*.pth
+.ipynb_checkpoints/
+debug_*.png
+line_segmentation_debug.png
+.env
+.venv/
+*.jpg
+*.ogg
+.idea/
